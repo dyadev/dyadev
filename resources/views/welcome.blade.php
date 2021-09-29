@@ -31,7 +31,7 @@
                     <p class="block text-sm text-gray-700">
                         <small>Hi,</small><br/>
                         <span >My name is <stronger>DJOUGOUNAH Arnaud</stronger>,<br/>
-                            I'm VALL Stack (Vuejs, Alpine ,Laravel,Livewire) Developer.</span>
+                            I'm VILT Stack Developer.</span>
                     </p>
                     <a href="" class="inline-block button px-6 py-2 rounded-full bg-gray-100">view my work</a>
                 </div>
