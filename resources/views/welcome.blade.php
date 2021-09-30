@@ -61,6 +61,7 @@
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
         <h1>DJOUGOUNAH YATON Arnaud</h1>
         <p>I'm <span class="typed" data-typed-items="Web Developer, FullStack Developer, Laravel Evangelist, Vuejs Evangelist"></span></p>
+        <span>Follow me on :</span>
         <div class="social-links">
             <a href="https://twitter.com/ADjougounah" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
             <a href="https://www.facebook.com/arnaud.djougounah" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -101,7 +102,7 @@
                         <div class="error-message"></div>
                         <div class="sent-message">Your message has been sent. Thank you!</div>
                     </div>
-                    <div class="text-center"><button type="submit">Send Message</button></div>
+                    <div class="text-center"><button type="button">Send Message</button></div>
                 </form>
 
             </div>
